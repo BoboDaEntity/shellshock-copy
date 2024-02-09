@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 09 Feb 2024 16:35:40 at https://shellshock.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shellshock.io/ -O1 "C:\My Web Sites\shellshockers" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:36:27	Error: 	"Not Found" (404) at link https://shellshock.io/GET (from https://shellshock.io/)
+16:36:27	Error: 	"Not Found" (404) at link https://shellshock.io/firebaseLocalStorageDb (from https://shellshock.io/)
+16:36:27	Error: 	"Not Found" (404) at link https://shellshock.io/favicon256.png (from https://shellshock.io/)
+16:36:31	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://shellshock.io/)
+16:36:36	Error: 	"Not Found" (404) at link https://shellshock.io/img/photo-booth/maps/${url}.jpg (from https://shellshock.io/)
+16:36:36	Error: 	"Not Found" (404) at link https://shellshock.io/styles/img/ico_chicken.png (from https://shellshock.io/styles/style.css?1706749628)
+16:36:36	Error: 	"Not Found" (404) at link https://shellshock.io/a (from https://connect.facebook.net/en_US/fbevents.js)
+16:36:36	Error: 	"Not Found" (404) at link https://shellshock.io/POST (from https://connect.facebook.net/en_US/fbevents.js)
+16:36:36	Error: 	"Not Found" (404) at link https://shellshock.io/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+16:36:36	Error: 	"Not Found" (404) at link https://shellshock.io/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+16:36:36	Error: 	"Not Found" (404) at link https://shellshock.io/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 56 seconds : 95 links scanned, 83 files written (7668497 bytes overall) [4088830 bytes received at 73014 bytes/sec], 4861950 bytes transferred using HTTP compression in 45 files, ratio 24%, 4.8 requests per connection
+(11 errors, 0 warnings, 0 messages)
